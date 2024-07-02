@@ -18,8 +18,6 @@ Error Handling: Includes error handling mechanisms to handle unexpected situatio
 
 socket
 
-pickle
-
 threading
 
 tkinter
